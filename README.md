@@ -1,5 +1,5 @@
 # test101
 
-## Editing the fiel
+## Editing the file
 
 It is a markdown file in this repository
